@@ -7,3 +7,6 @@ Have a look at `Austria` for an example JSON.
 
 ## Tranlations
 Translations can be added in the `texts` directory. Add a directory for your locale, copy the default texts.json to it and start editing.
+
+## Data & Privacy
+The app itself does store or collect and data.

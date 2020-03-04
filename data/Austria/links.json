@@ -1,19 +1,19 @@
 {
   "info": [
     {
-      "title": "AGES (Österreichische Agentur für Gesundheit und Ernährungssicherheit GmbH)",
-      "url": "https://www.ages.at/themen/krankheitserreger/coronavirus/",
-      "description": "Die AGES bietet zahlreiche Services zum Coronavirus. Auf der Seite finden sich \"Fragen und Antworten\", weiterführende Links und Fachinformationen. Ebenfalls bietet die AGES eine kostenlose 24h Hotline."
-    },
-    {
-      "title": "Bundesministerium für Gesundheit Aktuelle Situation Österreich",
+      "title": "Aktuelle Situation Österreich -Bundesministerium für Gesundheit",
       "url": "https://www.sozialministerium.at/Themen/Gesundheit/Uebertragbare-Krankheiten/Infektionskrankheiten-A-Z/Neuartiges-Coronavirus.html",
       "description": "Aktuelle Informationen zum Coronavirus des Bundesministeriums für Gesundheit."
     },
     {
-      "title": "Bundesministerium für Gesundheit Testungen",
+      "title": "Testungen - Bundesministerium für Gesundheit",
       "url": "https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html",
       "description": "Aktuelle Information über die Anzahl der getesteten Personen, so wie bestätigte Infektionen."
+    },
+    {
+      "title": "Infoseite - AGES",
+      "url": "https://www.ages.at/themen/krankheitserreger/coronavirus/",
+      "description": "Die AGES (Österreichische Agentur für Gesundheit und Ernährungssicherheit GmbH) bietet zahlreiche Services zum Coronavirus. Auf der Seite finden sich \"Fragen und Antworten\", weiterführende Links und Fachinformationen. Ebenfalls bietet die AGES eine kostenlose 24h Hotline."
     }
   ],
   "news": [
@@ -25,11 +25,18 @@
   ],
   "hotlines": [
     {
+      "title": "1450 - Die Gesundheitsnummer",
+      "phone": "1450",
+      "note": "7 Tage in der Woche, 0 - 24 Uhr",
+      "url": "https://www.1450.at/",
+      "description": "Die Nummer zu Ihrer telefonischen Gesundheitsberatung."
+    },
+    {
       "title": "Hotline der AGES",
       "phone": "+43 800 555 621",
-      "note": "7 Tage in der Woche, 0 bis 24 Uhr",
+      "note": "7 Tage in der Woche, 0 - 24 Uhr",
       "url": "https://www.aekwien.at/coronavirus",
-      "description": "Fragen und Antworten; Steckbrief; Situation; Fachinformation"
+      "description": "Fragen und Antworten. Fachinformationen."
     }
   ]
 }
